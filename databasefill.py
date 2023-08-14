@@ -19,7 +19,7 @@ params = {
 
 start = time.time()
 
-datapath = None
+datapath = ""
 
 while not os.path.exists(datapath):
     
